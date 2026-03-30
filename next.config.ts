@@ -2,8 +2,9 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: 'export',
-  basePath: '/Zhero-s-website',
   trailingSlash: true,
+  assetPrefix: "/Zhero-s-website",
+  basePath: '/Zhero-s-website',
   images: {
     unoptimized: true,
   },
