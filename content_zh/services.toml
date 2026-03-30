@@ -1,9 +1,45 @@
 type = "card"
-title = "学术服务"
-description = "专业服务与社区参与。"
+title = "课外活动"
+description = "专业服务与课外活动参与。"
 
 [[items]]
-title = "审稿人"
-subtitle = "某期刊"
-date = "2024"
-content = "参与审阅论文。"
+title = "海南大学团委办公室"
+subtitle = "海南大学共青团委员会"
+date = "2021-2022"
+content = "参与学院活动策划与财务报销。"
+
+[[items]]
+title = "优秀学生干部"
+subtitle = "海南大学"
+date = "2021-2023"
+content = "荣誉称号。"
+
+[[items]]
+title = "优秀学生会干部"
+subtitle = "海南大学"
+date = "2022.05"
+content = "荣誉称号。"
+
+[[items]]
+title = "优秀共青团干部"
+subtitle = "海南大学"
+date = "2023.05"
+content = "荣誉称号。"
+
+[[items]]
+title = "优秀共青团员"
+subtitle = "海南大学"
+date = "2021.05"
+content = "荣誉称号。"
+
+[[items]]
+title = "大学生三下乡社会暑期实践活动优秀团队"
+subtitle = "海南大学"
+date = "2021.08"
+content = "参与调研海南红树林植物物种多样性及其分布特征。"
+
+[[items]]
+title = "学生积极分子"
+subtitle = "海南大学"
+date = "2023.06"
+content = "荣誉称号。"

@@ -1,11 +1,13 @@
 type = "about"
-title = "About"
+title = "Zhero's Hub"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Bioinformatics",
+  "Genomics",
+  "Multi-omics",
+  "Phylogenomics",
+  "AI for biology"
 ]
 
 [[sections]]

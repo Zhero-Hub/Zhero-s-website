@@ -1,9 +1,45 @@
 type = "card"
 title = "Services"
-description = "Professional services and community involvement."
+description = "Professional services and participation in extracurricular activities."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "the Youth League Committee Office"
+subtitle = "Hainan University"
+date = "2021-2022"
+content = "I plan and draft various activities for the Youth League Committee and Student Union, creating PowerPoint presentations. I manage attendance, conduct roll calls for participants, and organize weekly department head meetings, collecting work summaries. I handle budgeting and reimbursement for college activities and coordinate with the school's Youth League Committee and Student Union. Additionally, I lead the award evaluation process within the college, recognizing outstanding individuals such as Communist Youth League members and Student Union leaders."
+
+[[items]]
+title = "Outstanding Student Leader"
+subtitle = "Hainan University"
+date = "2021-2023"
+content = "Honorary Title"
+
+[[items]]
+title = "Outstanding Student Council Officer"
+subtitle = "Hainan University"
+date = "2022.05"
+content = "Honorary Title"
+
+[[items]]
+title = "Outstanding Communist Youth League Cadre"
+subtitle = "Hainan University"
+date = "2023.05"
+content = "Honorary Title"
+
+[[items]]
+title = "Outstanding Member of the Communist Youth League"
+subtitle = "Hainan University"
+date = "2021.05"
+content = "Honorary Title"
+
+[[items]]
+title = "the 'Three Down to the Countryside' Social Practice"
+subtitle = "Hainan University"
+date = "2021.08"
+content = "As a member tasked with investigating the plant species in the Dongzhaigang Mangrove Nature Reserve in Haikou, my role is crucial in the ‘Healthy All, Boosting Free Trade Port - Research on the Mangrove Ecosystem in Hainan, China’ project. The project involves the collection of specimens of true mangroves and semi-mangrove plants, as well as the classification and identification of mangrove vegetation. Importantly, the project has received strong support from Hainan University."
+
+[[items]]
+title = "Student activists"
+subtitle = "Hainan University"
+date = "2023.06"
+content = "Honorary Title"

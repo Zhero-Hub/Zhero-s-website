@@ -3,25 +3,31 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "Person of Year"
+subtitle = "Hainan University"
+date = "08.2024"
+content = "This award is the highest honour bestowed upon undergraduates at Hainan University, with no more than 30 students receiving it each year."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "China Undergraduate Life Sciences Contest(CULSC)·First Prize"
+subtitle = "National Student Life Science Competition Committee"
+date = "07.2024"
+content = "In this competition, we focused on the distribution characteristics of 6mA at the whole-genome level and its association with gene expression and function, and conducted an in-depth analysis of the 6mA in the genomes of two pathogenic bacteria. This competition is recognised by the Ministry of Education as a category A competition. The outcome of this comprehensive analysis led to the achievement of a national First prize, the top prize in the competition, with a winning rate not exceeding 2%."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Fourth 'Huashu Cup' National Mathematical Modeling Competition·Third Price"
+subtitle = "The Big Data and Mathematical Models Professional Committee"
+date = "08.2023"
+content = "In this competition, an exploration into the impact of maternal physical and mental health on infant growth was conducted using various methods such as the Random Forest model, NSGA-II algorithm, and Linear Programming model. The research delved into the correlation aiming to enhance the understanding of factors contributing to infant health and development. The outcome of this comprehensive analysis led to the achievement of a national third prize, with a winning rate not exceeding 30%."
+
+[[items]]
+title = "National College Student English Essay Competition·Third Price"
+subtitle = "The International English Foreign Language Teachers Association"
 date = "2023"
-content = "Description of the award."
+content = "I composed a reflective essay on William Wordsworth's poetry, earning a provincial third prize. Among the intense competition, only 4,000 individuals secured a provincial third prize, making the overall success rate a mere 10%"
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "National College Student Mathematics Competition·Third Price"
+subtitle = "The China Mathematical Society"
+date = "2021"
+content = "The competition, which examined foundational mathematical knowledge, resulted in my achievement of a provincial third prize. Notably, the winning rate was approximately 11%, highlighting my exceptional performance in mathematics within a highly competitive environment."

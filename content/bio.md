@@ -1,5 +1,7 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+Hi, I am a Master student in the Institute of Evolution & Marine Biodiversity at Ocean University of China, advised by Prof. Jin SUN. 
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+Prior to this, I obtained my B.S. degree from Hainan University in 2024, advised by Prof. Hong LI.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research interests lie broadly in Bioinformatics, with a specific focus on Genomics and multi-omics. I am always open to discussions and collaborations. 
+
+Feel free to reach out to me via email at honghaozhao.bio@gmail.com.

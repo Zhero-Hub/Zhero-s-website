@@ -1,10 +1,10 @@
 type = "card"
 title = "教学"
-description = "我曾参与授课或助教的课程。"
+description = "我曾参与的助教。"
 
 [[items]]
-title = "示例课程"
-subtitle = "助教"
-date = "2024"
-content = "课程内容与职责简介。"
-tags = ["本科生", "计算机"]
+title = "2022级生物技术三班"
+subtitle = "班主任助理"
+date = "2022-2023"
+content = "组织开展班级会议，布置并收集作业。"
+tags = ["本科生", "生物"]

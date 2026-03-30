@@ -1,18 +1,18 @@
 [site]
-title = "刘嘉乐"
-description = "某某大学博士生个人主页。"
-last_updated = "2025年11月18日"
+title = "Zhero's Hub"
+description = "赵洪豪的个人主页。"
+last_updated = "2026年3月30日"
 
 [author]
-name = "刘嘉乐"
-title = "博士生"
-institution = "某某大学"
+name = "赵洪豪"
+title = "生物学硕士"
+institution = "中国海洋大学海洋生物多样性与进化研究所"
 
 [social]
-location = "城市，国家"
+location = "青岛，中国"
 location_details = [
-  "理科楼 123 室，",
-  "大学路，城市，国家"
+  "达尔文馆，",
+  "青岛市鱼山路5号 中国海洋大学达尔文馆"
 ]
 
 [[navigation]]

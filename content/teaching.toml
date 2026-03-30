@@ -1,10 +1,10 @@
 type = "card"
 title = "Teaching"
-description = "Courses I have taught or assisted with."
+description = "Class I have taught or assisted with."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+title = "2022 Biotechology class Ⅲ"
+subtitle = "Class Teacher's Assistant"
+date = "2022-2023"
+content = "I formed the freshman class group, guided incoming students through enrollment, and assisted in electing the new class committee. Established a communication bridge between teachers and freshmen, aiding teachers in managing freshmen effectively. Additionally, assisted freshmen in adapting to university life, covering aspects such as academics, daily life, and ideological orientation.)."
+tags = ["Undergraduate", "Biotechology"]
