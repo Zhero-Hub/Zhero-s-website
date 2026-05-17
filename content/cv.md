@@ -26,3 +26,4 @@
 - **Merit Student·top5%** - Hainan University (*2021-2023*)
 - **Pioneers in Innovation and Entrepreneurship·top5%** - Hainan University (*06/2022*)
 - **Outstanding Individual in Scientific and Technological Innovation·top5%** - University Science and Technology Association (*06/2023*)
+- **Excellent graduate·top10%** - Hainan University (*06/2024*)
